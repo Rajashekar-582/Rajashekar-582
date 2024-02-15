@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rajashekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajashekar-582&label=Profile%20views&color=0e75b6&style=flat" alt="Rajashekar-582" /> </p>
 
