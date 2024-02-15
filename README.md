@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashekar-582&layout=compact)](https://github.com/Rajashekar-582/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajashekar-582)](https://github.com/Rajashekar-582/github-readme-stats)
 
-<img align="right" alt="Coding" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif" />
+<img align="left" alt="Coding" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif" />
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ra&theme=tokyonight" alt="alexxkzz" /></p>
 <!---
 Rajashekar-582/Rajashekar-582 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
