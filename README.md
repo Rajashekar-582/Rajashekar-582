@@ -1,4 +1,3 @@
-(https://rajashekar-582.github.io/nerella/)
 ![1710841109274](https://github.com/user-attachments/assets/d9afe70e-5c06-4559-b4c7-320307bae381)
 
 <h1 align="center">Hi 👋, I'm Rajashekar</h1>
